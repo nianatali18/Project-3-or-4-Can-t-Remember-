@@ -1,6 +1,6 @@
-# Project-3/4 having some of each project requirement in each: 
+# Project-3/4 having some of each project requirement in each 
 
-##Summary:
+##Summary 
 I am going to be changing my entire website slightly to be a prototyp for a competition I am part of right now. 
 I am going to be changing the titles for labled stuff and changing it to fit what I will be doing
 
@@ -35,11 +35,11 @@ I worked with a team who basically gave me the requirements for what needs to be
 
 
 
-## Color scheme: 
+## Color scheme 
 
- - Stick to neutral color
+- Stick to neutral color
 
- - Images later on using the product 
+- Images later on using the product 
 
 
 
@@ -63,13 +63,6 @@ I worked with a team who basically gave me the requirements for what needs to be
 
 - Zephyrus (west wind) 
 
-- Mitto Zephyrus ( I send the west wind) 
-
-
-
-
-
-
-
+- Mitto Zephyrus ( I send the west wind)
 
 
