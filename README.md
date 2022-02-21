@@ -11,10 +11,40 @@ I worked with a team who basically gave me the requirements for what needs to be
 
 - Addition of a function that woukd allow a scanned bar code to be scanned and bring it to the page 
 
-- Description of the product we created which is a biodegratable makeup towlette 
+- Description of the product we created which is a biodegradable makeup towlette 
+
+### Front Page 
+- Picture of the product 
+
+- Name of the product 
+
+- Short description
+
 
 - Drop down tabs from the top to give options on 
-   1) Information about the product
-   2) Picture of the product
+   1) Information about the product 
+   2) Picture of the product and explanations
    3) How it is effective and why it is a good option 
+   4) Why we cuilt this product 
+   5) "who are we" page 
+
+
+
+###### Potential Names
+
+
+
+## Color scheme: 
+
+ - Stick to neutral color
+
+ - Images later on using the product 
+
+
+
+
+
+
+
+
 
